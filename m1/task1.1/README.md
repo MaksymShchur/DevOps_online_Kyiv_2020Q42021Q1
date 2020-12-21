@@ -6,7 +6,7 @@ The red color marks the remote branches, which can be seen on the githab:
 
 ![Sreenshot](/m1/task1.1/screenshots/Picture1.png)
 
-## Solving conflicts when merging branches.
+## Solving conflicts when merging branches
 When merging the images and styles branches into develop, there was a conflict in the index.html file because it was modified simultaneously in both of them. Difference of the index.html file in the styles and images branches:
 
 ![Sreenshot](/m1/task1.1/screenshots/Picture2.png)
